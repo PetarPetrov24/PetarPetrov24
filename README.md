@@ -12,16 +12,18 @@
 <hr>
 
 <h2>📢 Connect with me</h2>
-<div class="icons">
-
-<a href="[https://facebook.com/petar.petrov.7569/](https://instagram.com/_petar_petrov/)" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Facebook" style="width: 35px; height: 35px; margin-right: 50px;">
-</a>
-
-<a href="https://instagram.com/_petar_petrov/" target="_blank">
-    <img src="[https://cdn-icons-png.flaticon.com/512/733/733547.png](https://instagram.com/_petar_petrov/)" alt="Instagram" style="width: 35px; height: 35px;">
-</a>
+<div class="icons" style="display: flex; gap: 20px;">
+    <a href="https://facebook.com/petar.petrov.7569/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Facebook" style="width: 35px; height: 35px;">
+    </a>
+    <a href="https://instagram.com/_petar_petrov/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Instagram" style="width: 35px; height: 35px;">
+    </a>
+    <a href="https://www.linkedin.com/in/ppp1808/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn" style="width: 35px; height: 35px;">
+    </a>
 </div>
+
 <hr>
 
 <h2>🛠️ Languages and Tools I Know:</h2>
