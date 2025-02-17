@@ -14,13 +14,12 @@
 <h2>📢 Connect with me</h2>
 <div class="icons">
 
-<a href="https://facebook.com/petar.petrov.7569/" target="_blank">
+<a href="[https://facebook.com/petar.petrov.7569/](https://instagram.com/_petar_petrov/)" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Facebook" style="width: 35px; height: 35px; margin-right: 50px;">
 </a>
-  
 
 <a href="https://instagram.com/_petar_petrov/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Instagram" style="width: 35px; height: 35px;">
+    <img src="[https://cdn-icons-png.flaticon.com/512/733/733547.png](https://instagram.com/_petar_petrov/)" alt="Instagram" style="width: 35px; height: 35px;">
 </a>
 </div>
 <hr>
