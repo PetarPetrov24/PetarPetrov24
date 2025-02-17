@@ -1,7 +1,9 @@
 <body>
 
 <h1>Hi, I'm Peter 👋</h1>
-    <div class="heading">I'm a Junior Backend/Frontend Developer</div>
+<div class="heading">
+    <h2>I'm a Junior Backend/Frontend Developer</h2>
+</div>
 <hr>
 <h2>📚 Education & Experience</h2>
 <p>🎓 Studied Python with Django, PostgreSQL, HTML, and CSS for 2 years.</p>
