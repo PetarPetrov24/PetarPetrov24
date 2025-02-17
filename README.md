@@ -25,8 +25,6 @@
 </div>
 <hr>
 
-<hr>
-
 <h2>🛠️ Languages and Tools I Know:</h2>
 <div class="icons">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 25px; height: 25px; margin-right: 15px;">
