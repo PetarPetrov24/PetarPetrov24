@@ -37,12 +37,5 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-    <div class="github-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=PetarPetrov24&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats">
-            <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarPetrov24&layout=compact&theme=dark" alt="Most Used Languages">
-    </div>
-
 </body>
 </html>
