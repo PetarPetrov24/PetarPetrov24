@@ -6,8 +6,7 @@
 </div>
 <hr>
 <h2>📚 Education & Experience</h2>
-<p>🎓 Studied Python with Django, PostgreSQL, HTML, and CSS for 2 years.</p>
-<p>🚀 Currently learning JavaScript.</p>
+<p>🎓 Studied Python with Django, PostgreSQL, HTML, JS and CSS for 2 years.</p>
 <p>✅ Completed multiple courses at SoftUni.</p>
 <hr>
 
