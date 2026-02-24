@@ -1,6 +1,4 @@
 <body>
-    <div class="heading">
-</div>
 <hr>
 <h2>📚 Education & Experience</h2>
 <p> Studied and practiced Python with Django, PostgreSQL, HTML, JS and CSS for 2 years.</p>
