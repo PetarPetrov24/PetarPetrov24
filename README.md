@@ -6,11 +6,11 @@
 </div>
 <hr>
 <h2>📚 Education & Experience</h2>
-<p>✅ Studied and practiced Python with Django, PostgreSQL, HTML, JS and CSS for 2 years.</p>
-<p>✅ Completed multiple courses at SoftUni.</p>
+<p> Studied and practiced Python with Django, PostgreSQL, HTML, JS and CSS for 2 years.</p>
+<p> Completed multiple courses at SoftUni.</p>
 <hr>
 
-<h2>📢 Connect with me</h2>
+<h2>Connect with me</h2>
 <div class="icons" style="display: flex; gap: 20px;">
     <a href="https://facebook.com/petar.petrov.7569/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style="width: 35px; height: 35px;">
